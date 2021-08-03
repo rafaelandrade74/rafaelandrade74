@@ -1,4 +1,4 @@
-## Olá! Eu sou o Rafael Andrade 
+## Hello! I'm Rafael Andrade 
 Here are some ideas to get you started:
 
 <img src="https://komarev.com/ghpvc/?username=rafaelandrade74&color=green">
