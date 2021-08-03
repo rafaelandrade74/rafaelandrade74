@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <a href = "mailto:contato@ferasgameshosting.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaelandrade74" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://raw.githubusercontent.com/rafaelandrade74/rafaelandrade74/main/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaelandrade74/rafaelandrade74/blob/output/github-contribution-grid-snake.svg)
   
  
 </div>
