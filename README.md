@@ -1,9 +1,10 @@
-## Olá! Eu sou o Rafael Andrade <img src="https://komarev.com/ghpvc/?username=rafaelandrade74&color=green">
+## Olá! Eu sou o Rafael Andrade 
 Here are some ideas to get you started:
+
+<img src="https://komarev.com/ghpvc/?username=rafaelandrade74&color=green">
 
 - 🔭 I’m currently working on <a href="https://github.com/FerasGamesHosting">FerasGames Hosting</a>
 - 🌱 I’m currently learning Angular, devops, Scrum and agile methodology.
-- 💬 Ask me about ...
 - 📫 How to reach me: contato@ferasgameshosting.com.br
 - 🎮 Gamer
 
@@ -20,7 +21,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+  <img align="center" alt="Rafa-Java" height=30 width="80" src="https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat">
 </div>
   
   ##
