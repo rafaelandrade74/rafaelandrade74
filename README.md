@@ -1,6 +1,4 @@
 ## Hello! I'm Rafael Andrade 
-Here are some ideas to get you started:
-
 
 - 🔭 I’m currently working on <a href="https://github.com/FerasGamesHosting">FerasGames Hosting</a>
 - 🌱 I’m currently learning Angular, devops, Scrum and agile methodology.
