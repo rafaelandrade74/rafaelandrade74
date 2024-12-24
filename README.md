@@ -1,8 +1,7 @@
 ## Hello! I'm Rafael Andrade 
 
-- 🔭 I’m currently working on <a href="https://github.com/FerasGamesHosting">FerasGames Hosting</a>
 - 🌱 I’m currently learning Angular, devops, Scrum and agile methodology.
-- 📫 How to reach me: contato@ferasgameshosting.com.br
+- 📫 How to reach me: rafael_andrade74@hotmail.com
 - 🎮 Gamer
 
  <div>
