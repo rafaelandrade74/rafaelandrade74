@@ -29,16 +29,6 @@
   <img align="center" alt="Rafa-Java" height="30" width="80" src="https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat">
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/rafaelandrade74">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelandrade74&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelandrade74&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
 
 ---
 
