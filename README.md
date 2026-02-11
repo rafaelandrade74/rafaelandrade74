@@ -32,10 +32,13 @@
 
 ---
 
-## 🌎 Connect with me
+## 🌐 Let's Connect & Learn Together
 
 <a href="https://www.linkedin.com/in/rafaelandrade7112" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.youtube.com/@rafadev93" target="_blank">
+  <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 
 ---
